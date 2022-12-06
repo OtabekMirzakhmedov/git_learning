@@ -4,5 +4,3 @@ standing strong
 on this chosen line
 
 feature branch
-
-feature change branch 2
