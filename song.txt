@@ -8,3 +8,4 @@ master branch
 
 feature branch
 
+tags
