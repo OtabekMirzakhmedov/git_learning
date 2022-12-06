@@ -5,6 +5,3 @@ on this chosen line
 
 form the lines
 shield by shield
-
-some content
-and here to revert
